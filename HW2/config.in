@@ -1,0 +1,4 @@
+db_type : Barisal
+db_name : University
+db_table_prefix : test_
+db_port:2019
